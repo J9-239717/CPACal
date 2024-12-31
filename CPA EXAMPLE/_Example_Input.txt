@@ -1,0 +1,11 @@
+row1: credit4:int,credit3:int,credit2 :int
+row2: list of credit 4 grade :float[]
+row3: list of credit 3 grade :float[]
+row4: list of credit 2 grade :float[]
+
+/*
+    credit-hours
+    subject 4 credit = 4 ch impact to CPA (per 1 subject) : 0.12
+    subject 3 credit = 3 ch impact to CPA (per 1 subject) : 0.09
+    subject 2 credit = 2 ch impact to CPA (per 1 subject) : 0.05
+*/
